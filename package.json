@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "serve": "poi --serve",
+    "build": "poi --prod"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "babel-plugin-import": "^1.12.0",
+    "moment": "^2.24.0",
+    "poi": "^12.6.10",
+    "socket.io": "^2.2.0",
+    "vant": "^2.0.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6",
+    "vue-template-compiler": "^2.6.10",
+    "vuex": "^3.1.1"
+  }
+}
